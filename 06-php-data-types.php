@@ -26,6 +26,14 @@ var_dump($float_x);
 // Boolean
 $bool_x = true;
 var_dump($x);
+
+// Array
+
+// Object
+
+// Null
+
+// Casting
 ?>   
     
 </body>
